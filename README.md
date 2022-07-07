@@ -2,6 +2,10 @@
 
 Sample manim project animating Euler's formula.
 
+
+https://user-images.githubusercontent.com/50373698/177876040-aa2ea440-7022-4e0b-a23d-95e8026817ad.mp4
+
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
